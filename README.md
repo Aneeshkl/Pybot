@@ -78,7 +78,7 @@ transformers
 flask_ngrok
 ```
 
-## 🖼️ Screenshots *(Optional - Add UI previews here!)*  
+## 🖼️ Screenshots   
 ![📌 **Chat Interface**](PowerBIDashboard.png)
 
 ## 📊 How It Works  
