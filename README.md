@@ -1,9 +1,9 @@
 
-# 🤖 PyBot - AI Chatbot  
+# 🤖 Pybot - AI Chatbot  
 _A Flask-based AI chatbot with a modern UI and AI-powered responses._  
 
 ## 📚 Overview  
-**PyBot** is a chatbot built using **Flask** and **DialoGPT**, providing a real-time chat interface with a sleek and modern UI. The chatbot can process user messages and generate AI-based responses.  
+**Pybot** is a chatbot built using **Flask** and **DialoGPT**, providing a real-time chat interface with a sleek and modern UI. The chatbot can process user messages and generate AI-based responses.  
 
 ## 🚀 Features  
 
@@ -21,7 +21,7 @@ _A Flask-based AI chatbot with a modern UI and AI-powered responses._
 
 ## 📂 Project Structure  
 ```
-PyBot/
+Pybot/
 │── static/
 │   ├── style.css           # Custom CSS for UI styling
 │   ├── AI Image.jpg        # Background image for chatbot
@@ -36,7 +36,7 @@ PyBot/
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/PyBot.git
+git clone https://github.com/your-username/Pybot.git
 cd PyBot
 ```  
 
@@ -79,7 +79,7 @@ flask_ngrok
 ```
 
 ## 🖼️ Screenshots   
-![📌 **Chat Interface**](PowerBIDashboard.png)
+![📌 **Chat Interface**](PybotUI.png)
 
 ## 📊 How It Works  
 1️⃣ **User enters a message** in the chat input.  
@@ -94,4 +94,4 @@ Feel free to **fork the repository** and enhance PyBot with **more AI models, be
 
 ---
 
-💡 **Enjoy using PyBot! 🚀**
+💡 **Enjoy using Pybot! 🚀**
