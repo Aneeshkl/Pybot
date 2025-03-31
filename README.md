@@ -79,7 +79,7 @@ flask_ngrok
 ```
 
 ## 🖼️ Screenshots   
-![📌 **Chat Interface**](PybotUI)
+![📌 **Chat Interface**](PybotUI.png)
 
 ## 📊 How It Works  
 1️⃣ **User enters a message** in the chat input.  
